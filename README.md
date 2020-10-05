@@ -1,7 +1,5 @@
 
-<div style="display:flex;flex-direction:row;align-items:center;justify-content:center;">
-	<img src="./images/title.png"></img>
-</div>
+<p align="center"><img src="./images/title.png"></img></p>
 
 ---
 
