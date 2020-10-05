@@ -42,7 +42,8 @@ I am a graduate with a Bachelor’s degree in Computer Sciences. Passionate abou
 
 ---
 
-<div style="display:flex;flex-direction:row;align-items:center;justify-content:center;">
+<!-- <div style="display:flex;flex-direction:row;align-items:center;justify-content:center;"> -->
+<p align="center">
 	<a href="https://www.linkedin.com/in/logan-farci/" style="margin:1em;">
 		<img src="./icons/linkedin.png"/ title="Connect with Logan Farci on LinkedIn" alt="LinkedIn | Logan Farci" width="32px">
 	</a>
@@ -55,8 +56,9 @@ I am a graduate with a Bachelor’s degree in Computer Sciences. Passionate abou
 	<a href="https://stackoverflow.com/users/9819235/logan-farci" style="margin:1em;">
 		<img src="./icons/stack-overflow.png"/ alt="StackOverflow | Logan Farci" width="32px">
 	</a>
-</div>
-<h2 style="font-weight:500;" align="center">Contact me! 😁</h3>
+</p>
+<!-- </div> -->
+<h4 align="center">Contact me! 😁</h4>
 <p align="center">
 	<img src="./images/keanu.gif" height=100 style="margin:1em;" alt="Keanu Reeves is winking at you! 😉" title="Keanu Reeves is winking at you! 😉"/>
 </p>
