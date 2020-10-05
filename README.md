@@ -42,25 +42,23 @@ I am a graduate with a Bachelor’s degree in Computer Sciences. Passionate abou
 
 ---
 
-<br/>
 <p align="center">
 	<a href="https://www.linkedin.com/in/logan-farci/">
 		<img src="./icons/linkedin.png"/ title="Connect with Logan Farci on LinkedIn" alt="LinkedIn | Logan Farci" width="32px">
 	</a>
-	<span style="white-space:pre;">	</span>
+	<img src="./images/space.png"/ width="16px">
 	<a href="https://twitter.com/pomodoroFighter">
 		<img src="./icons/twitter.png"/ title="Follow Logan Farci on Twitter" alt="Twitter | Logan Farci" width="32px">
 	</a>
-	<span style="white-space:pre;">	</span>
+	<img src="./images/space.png"/ width="16px">
 	<a href="mailto:logan.farci@outlook.be?subject=Github&body=Hey%20Logan,%0D%0D..." style="margin:1em;">
 		<img src="./icons/outlook.png"/ alt="LinkedIn | Logan Farci" width="32px">
 	</a>
-	<span style="white-space:pre;">	</span>
+	<img src="./images/space.png"/ width="16px">
 	<a href="https://stackoverflow.com/users/9819235/logan-farci">
 		<img src="./icons/stack-overflow.png"/ alt="StackOverflow | Logan Farci" width="32px">
 	</a>
 </p>
-<!-- </div> -->
 <h4 align="center">Contact me! 😁</h4>
 <p align="center">
 	<img src="./images/keanu.gif" height=100 style="margin:1em;" alt="Keanu Reeves is winking at you! 😉" title="Keanu Reeves is winking at you! 😉"/>
