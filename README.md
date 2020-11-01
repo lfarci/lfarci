@@ -1,8 +1,3 @@
-
-<p align="center"><img src="./images/title.png"></img></p>
-
----
-
 ##  About me
 I am a graduate with a Bachelor’s degree in Computer Sciences. Passionate about technology, I have grown to love this field thanks to education, a first professional experience, and personal interest. I have experience in programming, database management, agile methodologies, and analysis. Now actively looking for a new challenge as a full stack developer.
 
@@ -60,6 +55,3 @@ I am a graduate with a Bachelor’s degree in Computer Sciences. Passionate abou
 	</a>
 </p>
 <h4 align="center">Contact me! 😁</h4>
-<p align="center">
-	<img src="./images/keanu.gif" height=100 style="margin:1em;" alt="Keanu Reeves is winking at you! 😉" title="Keanu Reeves is winking at you! 😉"/>
-</p>
