@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="140" height="36" viewBox="0 0 140 36" role="img" aria-label="View résumé">
-  <rect x="0.5" y="0.5" width="139" height="35" rx="6" fill="#238636" stroke="#1b7f37"/>
+  <rect x="0.5" y="0.5" width="139" height="35" rx="6" fill="#1a6fe1" stroke="#1557b0"/>
   <g transform="translate(14,9)" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <path d="M9 1.5v9.5"/>
     <path d="M5.2 7.2 9 11l3.8-3.8"/>
