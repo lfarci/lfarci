@@ -8,15 +8,17 @@
 <br>
 
 <p>
-  <a href="https://www.loganfarci.com/resume.pdf"><img src=".assets/buttons/btn-resume.svg" alt="View rÃŠsumÃŠ" height="36"></a>
+  <a href="https://www.loganfarci.com/resume.pdf"><img src=".assets/buttons/btn-resume.svg" alt="View résumé" height="36"></a>
   <a href="https://www.loganfarci.com"><img src=".assets/buttons/btn-website.svg" alt="Go to www.loganfarci.com" height="36"></a>
 </p>
 
 ## About me
 
-I'm a Software Engineer working at the intersection of **software development, cloud infrastructure, and developer experience**. Over the past five years, I've worked across Belgium's public, banking, and energy sectors, building applications and improving the platforms and workflows used to deliver them.
+I'm a **Software Engineer** who enjoys designing, building, and maintaining software throughout the development lifecycle. My background spans **C#/.NET application development, Azure cloud platforms, and engineering automation** across Belgian public-sector, banking, and energy projects.
 
-Currently a **Consultant, Full-Stack Developer** at [Avanade](https://www.avanade.com), I work with Azure, .NET, Terraform, and GitHub to build reliable software and automate development workflows. I also enjoy mentoring junior developers and exploring how AI-assisted development can improve the software delivery lifecycle.
+I'm currently a **Consultant (DevOps Engineer) at [Avanade](https://www.avanade.com)**, applying software engineering practices to infrastructure and delivery workflows with Terraform and GitHub Actions. I care about architecture, clear design, testing, and maintainability, not just getting something deployed.
+
+I'm especially interested in **Developer Experience (DevEx)** and how **AI-assisted development** can improve the software development lifecycle. I experiment with coding agents and automation, share what I learn, and enjoy mentoring fellow developers.
 
 ## GitHub Certifications
 
