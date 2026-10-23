@@ -14,11 +14,9 @@
 
 ## About me
 
-I'm a **Software Engineer** who enjoys designing, building, and maintaining software throughout the development lifecycle. My background spans **C#/.NET application development, Azure cloud platforms, and engineering automation** across Belgian public-sector, banking, and energy projects.
+I'm a **Software Engineer** and **Consultant (DevOps Engineer) at [Avanade](https://www.avanade.com)**. My background covers **C#/.NET, Azure, Terraform, and GitHub Actions**, with a focus on building and delivering maintainable software.
 
-I'm currently a **Consultant (DevOps Engineer) at [Avanade](https://www.avanade.com)**, applying software engineering practices to infrastructure and delivery workflows with Terraform and GitHub Actions. I care about architecture, clear design, testing, and maintainability, not just getting something deployed.
-
-I'm especially interested in **Developer Experience (DevEx)** and how **AI-assisted development** can improve the software development lifecycle. I experiment with coding agents and automation, share what I learn, and enjoy mentoring fellow developers.
+I'm interested in **Developer Experience (DevEx)** and **AI-assisted development**. I enjoy experimenting with coding agents, sharing what I learn, and mentoring other developers.
 
 ## GitHub Certifications
 
