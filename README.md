@@ -8,15 +8,15 @@
 <br>
 
 <p>
-  <a href="https://www.loganfarci.com/resume.pdf"><img src=".assets/buttons/btn-resume.svg" alt="View rÃŠsumÃŠ" height="36"></a>
+  <a href="https://www.loganfarci.com/resume.pdf"><img src=".assets/buttons/btn-resume.svg" alt="View résumé" height="36"></a>
   <a href="https://www.loganfarci.com"><img src=".assets/buttons/btn-website.svg" alt="Go to www.loganfarci.com" height="36"></a>
 </p>
 
 ## About me
 
-I'm a Software Engineer working at the intersection of **software development, cloud infrastructure, and developer experience**. Over the past five years, I've worked across Belgium's public, banking, and energy sectors, building applications and improving the platforms and workflows used to deliver them.
+I'm a **Software Engineer** and **Consultant (DevOps Engineer) at [Avanade](https://www.avanade.com)**. My background covers **C#/.NET, Azure, Terraform, and GitHub Actions**, with a focus on building and delivering maintainable software.
 
-Currently a **Consultant, Full-Stack Developer** at [Avanade](https://www.avanade.com), I work with Azure, .NET, Terraform, and GitHub to build reliable software and automate development workflows. I also enjoy mentoring junior developers and exploring how AI-assisted development can improve the software delivery lifecycle.
+I'm interested in **AI-assisted development**. I enjoy experimenting with coding agents, sharing what I learn, and mentoring other developers.
 
 ## GitHub Certifications
 
