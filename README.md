@@ -20,14 +20,6 @@ I'm currently a **Consultant (DevOps Engineer) at [Avanade](https://www.avanade.
 
 I'm especially interested in **Developer Experience (DevEx)** and how **AI-assisted development** can improve the software development lifecycle. I experiment with coding agents and automation, share what I learn, and enjoy mentoring fellow developers.
 
-## Selected projects
-
-- **[Our Grocery List](https://github.com/lfarci/our-grocery-list)**: A shared PWA backed by .NET Azure Functions and cloud services, with local development tooling and end-to-end tests.
-- **[PR Quality Checks](https://github.com/lfarci/pull-request-quality-checks)**: GitHub Copilot and agentic workflow experiments for enforcing a pull request quality contract.
-- **[flouz](https://github.com/lfarci/flouz)**: A local-first personal finance CLI with SQLite, automated tests, and AI-assisted transaction categorization.
-
-These projects reflect how I like to work: build useful software, automate its delivery, and evaluate AI against real engineering needs.
-
 ## GitHub Certifications
 
 I enjoy working with GitHub's developer platform, from CI/CD and automation to Copilot and AI-assisted development.
