@@ -16,7 +16,7 @@
 
 I'm a **Software Engineer** and **Consultant (DevOps Engineer) at [Avanade](https://www.avanade.com)**. My background covers **C#/.NET, Azure, Terraform, and GitHub Actions**, with a focus on building and delivering maintainable software.
 
-I'm interested in **Developer Experience (DevEx)** and **AI-assisted development**. I enjoy experimenting with coding agents, sharing what I learn, and mentoring other developers.
+I'm interested in **AI-assisted development**. I enjoy experimenting with coding agents, sharing what I learn, and mentoring other developers.
 
 ## GitHub Certifications
 
