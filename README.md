@@ -18,11 +18,16 @@ I'm a **Software Engineer** and **Consultant (DevOps Engineer) at [Avanade](http
 
 I'm interested in **AI-assisted development**. I enjoy experimenting with coding agents, sharing what I learn, and mentoring other developers.
 
+## Selected projects
+
+- **[C# Quest Tracker](https://github.com/lfarci/csharp-quest-tracker)** — A browser-local learning companion built with HTML, CSS, and JavaScript, with progress tracking and CSV backups. [Try the app](https://lfarci.github.io/csharp-quest-tracker/).
+- **[Agent Portability Lab](https://github.com/lfarci/agent-portability-lab)** — Two reproducible experiments exploring agent-profile portability across Copilot, Codex, and OpenCode, with documented findings and limitations.
+
 ## GitHub Certifications
 
 I enjoy working with GitHub's developer platform, from CI/CD and automation to Copilot and AI-assisted development.
 
-Alongside these certifications, I hold several GitHub partner and delivery credentials and currently rank in the [top 10 of a community-maintained GitHub credentials leaderboard](https://github.com/andrediasbr/github-certification-ranking/blob/main/TOP10_WORLD.md).
+See my [certification details](https://www.loganfarci.com/about#certifications) for additional credentials.
 
 <br>
 
