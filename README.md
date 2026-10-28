@@ -44,6 +44,12 @@ Alongside these certifications, I hold several GitHub partner and delivery crede
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/995f75ed-ca7f-4b8c-bd60-d4b3ed18dc65">
+    <img src=".assets/certifications/github-copilot-proficient.svg" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" width="97" height="96">
+  </a>
+</p>
+
 ## Explore
 
 - **[Experience](https://www.loganfarci.com/about#experience)**: My professional journey, projects, and engineering experience.
