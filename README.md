@@ -46,7 +46,7 @@ Alongside these certifications, I hold several GitHub partner and delivery crede
 
 <p align="center">
   <a href="https://www.credly.com/badges/995f75ed-ca7f-4b8c-bd60-d4b3ed18dc65">
-    <img src="https://images.credly.com/images/86687ad2-84e0-4d7c-876e-ea6c9fe25d82/blob" alt="Microsoft Pro Badge: GitHub Copilot - Proficient" width="97" height="96">
+    <img src=".assets/certifications/github-copilot-proficient.png" alt="GitHub Copilot Pro Badge: Proficient" width="83" height="96">
   </a>
 </p>
 
